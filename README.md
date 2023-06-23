@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here you will find some of my projects and contrib
 
 ## Existing Projects
 
--[TEX-Copier](https://github.com/TEXploder/TEX-Copier): A tool to capture a section of your screen and find and copy any text in there. Even from videos and protected PDF files
+- [TEX-Copier](https://github.com/TEXploder/TEX-Copier): A tool to capture a section of your screen and find and copy any text in there. Even from videos and protected PDF files
 
 ## Upcoming Projects
 
