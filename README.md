@@ -1,3 +1,4 @@
+![BANNER](https://tex-api.com/background+logo.png)
 # TEXploder
 
 Welcome to my GitHub profile! Here you will find some of my projects and contributions.
