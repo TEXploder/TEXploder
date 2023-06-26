@@ -17,8 +17,7 @@ Welcome to my GitHub profile! Here you will find some of my projects and contrib
 ## Websites
 
 - [TEX API](https://tex-api.com): The main website for the TEX API´s. You will find the coolest API´s there!
-- [TEX API Tools](https://tools.tex-api.com): Official website for the TEX - Tools. Explore our tools and resources..
-- [TEXplorer](https://texploder.com): A website dedicated to exploring the capabilities and possibilities of TEXploder (currently in Development).
+- [TEX Tools](https://tools.tex-api.com): Official website for the TEX - Tools. Explore our tools and resources (currently in Development).
 
 Feel free to explore and reach out to me if you have any questions or suggestions.
 
