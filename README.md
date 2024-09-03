@@ -6,6 +6,7 @@ Welcome to my GitHub profile! Here you will find some of my projects and contrib
 ## Existing Projects
 
 - [TEX-Copier](https://github.com/TEXploder/TEX-Copier): A tool to capture a section of your screen and find and copy any text in there. Even from videos and protected PDF files
+- [FZ-TEX-Counter](https://github.com/TEXploder/TEX-Counter): A improved version of the Dolphin-Counter for Flipper Zero
 - [FZ-TEX-Animations](https://github.com/TEXploder/TEX-FZ-Anims): Animations for Flipper Zero
 - [TappelPayloads](https://github.com/TEXploder/TappelPayloads): Payloads for Apple Devices for BLE Spams
 - [TandroydPayloads](https://github.com/TEXploder/Tandroid-Payloads): Payloads for BLE Advertising in Android devices
