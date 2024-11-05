@@ -1,4 +1,4 @@
-![BANNER](https://tex-api.com/background+logo.png)
+![BANNER](http://tex-api.com/background+logo.png)
 # TEXploder
 
 Welcome to my GitHub profile! Here you will find some of my projects and contributions.
@@ -25,4 +25,4 @@ Welcome to my GitHub profile! Here you will find some of my projects and contrib
 Feel free to explore and reach out to me if you have any questions or suggestions.
 
 
-![GAME](https://tools.tex-api.com/files/jump.gif)
+![GAME](http://tools.tex-api.com/files/jump.gif)
