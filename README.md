@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here you will find some of my projects and contrib
 ## Existing Projects
 
 ### New
-- [USB-Logger](https://texploder.com): A tool to capture a section of your screen and find and copy any text in there. Even from videos and protected PDF files
+- [USB-Logger](https://github.com/TEXploder/USB-Logger): A tool to capture a section of your screen and find and copy any text in there. Even from videos and protected PDF files
 
 ### Old
 - [TEX-Copier](https://github.com/TEXploder/TEX-Copier): A tool to capture a section of your screen and find and copy any text in there. Even from videos and protected PDF files
