@@ -23,8 +23,10 @@ Welcome to my GitHub profile! Here you will find some of my projects and contrib
 - [TEX API](https://tex-api.com): The main website for the TEX API´s. You will find the coolest API´s there!
 
 Feel free to explore and reach out to me if you have any questions or suggestions.
-Contact:
 
-[Linktree](https://texploder.com/links):
+
+Contact: [Linktree](https://texploder.com/links)
+
+
 
 ![GAME](http://tools.tex-api.com/files/jump.gif)
