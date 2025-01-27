@@ -24,6 +24,7 @@ Welcome to my GitHub profile! Here you will find some of my projects and contrib
 
 Feel free to explore and reach out to me if you have any questions or suggestions.
 Contact:
+
 [Linktree](https://texploder.com/links):
 
 ![GAME](http://tools.tex-api.com/files/jump.gif)
