@@ -1,39 +1,90 @@
-![BANNER](http://tex-api.com/background+logo.png)
-# TEXploder
+<!-- Banner -->
+<p align="center">
+  <img src="https://tex-api.com/background+logo.png" alt="Banner" width="100%"/>
+</p>
 
-Welcome to my GitHub profile! Here you will find some of my projects and contributions.
-- [Website Overview](https://github.com/TEXploder/Tools-Website)
+<h1 align="center">⚡ TEXploder ⚡</h1>
 
-## Existing Projects
+<p align="center">
+  <a href="https://asashin.com"><img src="https://img.shields.io/badge/Website-asashin.com-blue?style=for-the-badge&logo=firefox-browser" alt="Website"></a>
+  <a href="https://github.com/TEXploder?tab=repositories"><img src="https://img.shields.io/badge/Projects-View%20on%20GitHub-green?style=for-the-badge&logo=github"></a>
+  <a href="https://texploder.com/links"><img src="https://img.shields.io/badge/Contact-Linktree-orange?style=for-the-badge&logo=linktree"></a>
+</p>
 
-### New
-- [USB-Logger](https://github.com/TEXploder/USB-Logger): A tool to capture a section of your screen and find and copy any text in there. Even from videos and protected PDF files
+---
 
-### Old
-- [TEX-Copier](https://github.com/TEXploder/TEX-Copier): A tool to capture a section of your screen and find and copy any text in there. Even from videos and protected PDF files
-- [FZ-TEX-Counter](https://github.com/TEXploder/TEX-Counter): A improved version of the Dolphin-Counter for Flipper Zero
-- [FZ-TEX-Animations](https://github.com/TEXploder/TEX-FZ-Anims): Animations for Flipper Zero
-- [TappelPayloads](https://github.com/TEXploder/TappelPayloads): Payloads for Apple Devices for BLE Spams
-- [TandroydPayloads](https://github.com/TEXploder/Tandroid-Payloads): Payloads for BLE Advertising in Android devices
+### 👋 Welcome, fellow dev!
 
+I’m **TEXploder**, a developer obsessed with building powerful utilities, automation tools, and clever system integrations.
 
-## Upcoming Projects
+You might know me from my **Flipper Zero**, **system tools**, or **API projects** — but now I’m building something much bigger:
+> **[asashin.com](https://asashin.com)** – the next-gen platform for innovative dev tools & web utilities.
 
-- [TEX-Converter](https://texploder.com): A tool for converting files, code and other things to different formats.
-- [TEX-Tools](https://texploder.com): A collection of useful utilities for working with your Computer or Network.
-- [TEX-Dc RPC](https://texploder.com): A rich presence creator with endless options like videos, links and buttons.
-- [TEX-Spoofer](https://texploder.com): A program for spoofing your HWID/GUID and general ID´s.
+---
 
-## Websites
+## 🚀 Featured Projects
 
-- [TEX Tools](https://texploder.com): Official website for the TEX - Tools. Explore our tools and resources (currently in Development).
-- [TEX API](https://tex-api.com): The main website for the TEX API´s. You will find the coolest API´s there!
+| 🔥 Project | 💡 Description | 🌐 Link |
+|------------|----------------|---------|
+| 🧠 **USB-Logger** | Capture screen sections & extract text — even from videos or protected PDFs. | [View Repo](https://github.com/TEXploder/USB-Logger) |
+| ⚙️ **TEX-Copier** | Legacy version of my screen text extraction tool. | [View Repo](https://github.com/TEXploder/TEX-Copier) |
+| 🔢 **FZ-TEX-Counter** | Upgraded **Dolphin Counter** for Flipper Zero. | [View Repo](https://github.com/TEXploder/TEX-Counter) |
+| 🌀 **TEX-FZ-Anims** | Custom animations for Flipper Zero. | [View Repo](https://github.com/TEXploder/TEX-FZ-Anims) |
+| 📡 **TappelPayloads / TandroydPayloads** | BLE advertising payloads for iOS & Android. | [View iOS](https://github.com/TEXploder/TappelPayloads) / [View Android](https://github.com/TEXploder/Tandroid-Payloads) |
 
-Feel free to explore and reach out to me if you have any questions or suggestions.
+---
 
+## 🔮 Upcoming Projects
 
-Contact: [Linktree](https://texploder.com/links)
+🧰 **TEX-Tools Suite** – Collection of utilities for Windows & network management  
+🔄 **TEX-Converter** – Convert files, code, and formats with insane speed  
+🎮 **TEX-DC RPC** – Create Discord Rich Presences with video previews, links, and buttons  
+👻 **TEX-Spoofer** – Experimental hardware & ID spoofing project  
 
+> 💻 All upcoming releases will be available first at [**asashin.com**](https://asashin.com)
 
+---
 
-![GAME](http://tools.tex-api.com/files/jump.gif)
+## 🌐 My Ecosystem
+
+- 💎 **[asashin.com](https://asashin.com)** → Main tools platform  
+- 🧩 **[TEX API](https://tex-api.com)** → Public APIs & developer tools (Currently not available) 
+- ⚙️ **[texploder.com](https://texploder.com)** → Legacy & project hub  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TEXploder&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TEXploder&theme=tokyonight&hide_border=true" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TEXploder&theme=tokyonight&no-frame=true&column=6" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## ⚡ Quick Facts
+
+- 🧠 Tech Focus: C++, Web Dev, API Systems, Security Tools  
+- 🔬 Currently experimenting with **automation, UI tools, and system-level projects**  
+- 💬 Ask me about **reverse engineering**, **APIs**, or **Windows internals**
+
+---
+
+## 🕹️ Fun Zone
+
+<p align="center">
+  <img src="https://texploder.com/files/jump.gif" width="200px" alt="Jump Game"/>
+</p>
+
+> “If it can be automated, I’ll ask gpt.”  
+> — TEXploder ⚙️
+
+---
+
+<p align="center">
+  <a href="https://asashin.com"><b>🌐 Explore my latest work on asashin.com</b></a>
+</p>
