@@ -57,7 +57,7 @@ You might know me from my **Flipper Zero**, **system tools**, or **API projects*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TEXploder&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/streak?username=TEXploder&theme=tokyonight&hide_border=true" width="49%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=TEXploder&theme=tokyonight&no-frame=true&column=6" width="49%"/>
 </p>
 
 ---
