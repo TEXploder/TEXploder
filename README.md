@@ -26,8 +26,8 @@ You might know me from my **Flipper Zero**, **system tools**, or **API projects*
 
 | 🔥 Project | 💡 Description | 🌐 Link |
 |------------|----------------|---------|
-| 🧠 **USB-Logger** | Capture screen sections & extract text — even from videos or protected PDFs. | [View Repo](https://github.com/TEXploder/USB-Logger) |
-| ⚙️ **TEX-Copier** | Legacy version of my screen text extraction tool. | [View Repo](https://github.com/TEXploder/TEX-Copier) |
+| 🧠 **USB-Logger** | Logs port conections, with all details needed | [View Repo](https://github.com/TEXploder/USB-Logger) |
+| ⚙️ **TEX-Copier** | Capture screen sections & extract text — even from videos or protected PDFs. | [View Repo](https://github.com/TEXploder/TEX-Copier) |
 | 🔢 **FZ-TEX-Counter** | Upgraded **Dolphin Counter** for Flipper Zero. | [View Repo](https://github.com/TEXploder/TEX-Counter) |
 | 🌀 **TEX-FZ-Anims** | Custom animations for Flipper Zero. | [View Repo](https://github.com/TEXploder/TEX-FZ-Anims) |
 | 📡 **TappelPayloads / TandroydPayloads** | BLE advertising payloads for iOS & Android. | [View iOS](https://github.com/TEXploder/TappelPayloads) / [View Android](https://github.com/TEXploder/Tandroid-Payloads) |
