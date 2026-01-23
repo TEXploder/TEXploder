@@ -70,10 +70,10 @@ You might know me from my **Flipper Zero**, **system tools**, or **API projects*
 
 ---
 
-## 🕹️ Fun Zone
+## Hard Hitting Quotes
 
 <p align="center">
-  <img src="https://texploder.com/files/jump.gif" width="100%px" alt="Jump Game"/>
+  <img src="https://asashin.com/assets/jump.gif" width="100%px" alt="Jump Game"/>
 </p>
 
 > “If it can be automated, I’ll ask gpt.”  
