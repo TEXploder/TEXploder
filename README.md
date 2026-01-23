@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://tex-api.com/background+logo.png" alt="Banner" width="100%"/>
+  <img src="https://asashin.com/assets/background+logo.png" alt="Banner" width="100%"/>
 </p>
 
 <h1 align="center">⚡ TEXploder ⚡</h1>
