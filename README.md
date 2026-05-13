@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://asashin.com"><img src="https://img.shields.io/badge/Website-asashin.com-blue?style=for-the-badge&logo=firefox-browser" alt="Website"></a>
   <a href="https://github.com/TEXploder?tab=repositories"><img src="https://img.shields.io/badge/Projects-View%20on%20GitHub-green?style=for-the-badge&logo=github"></a>
-  <a href="https://texploder.com/links"><img src="https://img.shields.io/badge/Contact-Linktree-orange?style=for-the-badge&logo=linktree"></a>
+  <a href="https://ur-link.me/texploder"><img src="https://img.shields.io/badge/Contact-Linktree-orange?style=for-the-badge&logo=linktree"></a>
 </p>
 
 ---
